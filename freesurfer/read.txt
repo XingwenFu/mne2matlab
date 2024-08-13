@@ -1,0 +1,11 @@
+这里放freesurfer/FastSurfer分割后的项目文件
+例如：
+    fastSurfer_web_2024-04-11-10-18-32_GCqR9
+        bem
+        label
+        mri
+        scripts
+        stats
+        surf 
+        touch
+        ...
